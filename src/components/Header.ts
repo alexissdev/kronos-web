@@ -61,8 +61,8 @@ export function renderHeader(): string {
               : `<svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"/></svg>`
           }
         </button>
-        <a href="https://github.com" target="_blank" rel="noreferrer" data-external class="hidden sm:inline text-zinc-500 dark:text-zinc-400 hover:text-violet-600 dark:hover:text-violet-400">GitHub</a>
-        <a href="https://www.spigotmc.org" target="_blank" rel="noreferrer" data-external class="hidden sm:inline text-zinc-500 dark:text-zinc-400 hover:text-violet-600 dark:hover:text-violet-400">${t('View on Spigot', 'Ver en Spigot')}</a>
+        <a href="https://github.com/alexissdev/kronos" target="_blank" rel="noreferrer" data-external class="hidden sm:inline text-zinc-500 dark:text-zinc-400 hover:text-violet-600 dark:hover:text-violet-400">GitHub</a>
+        <a href="https://www.spigotmc.org/search/294933511/" target="_blank" rel="noreferrer" data-external class="hidden sm:inline text-zinc-500 dark:text-zinc-400 hover:text-violet-600 dark:hover:text-violet-400">${t('View on Spigot', 'Ver en Spigot')}</a>
       </div>
     </header>
   `;
