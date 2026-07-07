@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "license": "MIT",
+  "author": "AlexisDev",
+  "description": "JavaDoc-style developer documentation site for the Kronos HCF Minecraft plugin.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
